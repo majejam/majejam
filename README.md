@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://www.thomaslacroix.fr/assets/travolta.gife" alt="Travolta"/>
+  ![Travolta](https://www.thomaslacroix.fr/assets/travolta.gif)
 </p>
