@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Travolta](https://www.thomaslacroix.fr/assets/travolta.gif)
 <!--
 **majejam/majejam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
